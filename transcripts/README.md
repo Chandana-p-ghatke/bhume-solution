@@ -16,6 +16,8 @@ The solution was developed with Codex Desktop in a coding session. The session c
 
 See `codex-session.md` for the prompt/response log reconstructed from the working session.
 
-## Other AI Chats
+## ChatGPT Planning Chat
 
-No separate web-chat links were used.
+I also used ChatGPT to reason through the project approach from the beginning:
+
+- https://chatgpt.com/share/6a2a851c-98e8-83ec-bae3-a35fa572ebd1
